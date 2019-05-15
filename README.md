@@ -1,6 +1,8 @@
 # Frozen-DevOp
 Project Delta Devop (Self Project)
 
+Project Documentation link : https://drive.google.com/open?id=1kZST7CweWGIuR2K0myHmXI-g6cDQiec6
+
 This is an e-commerce book store project .
 Software is built using following technologies :
 
