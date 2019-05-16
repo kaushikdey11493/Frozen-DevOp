@@ -10,6 +10,7 @@ Software is built using following technologies :
   * HTML
   * CSS
   * JavaScript
+  * AJAX
   
 2. Back-end :
   * JSP
